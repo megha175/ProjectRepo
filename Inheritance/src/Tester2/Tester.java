@@ -12,6 +12,8 @@ System.out.println(s);
 Faculty f=new Faculty("Mandar","Shirke",10,".net,aras,DBT");
 System.out.println(f);
 System.out.println(123.56);
+System.out.println("Hello,I am Megha");
+
 	}
 
 }
